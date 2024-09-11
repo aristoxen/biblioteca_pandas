@@ -1,6 +1,6 @@
 # biblioteca_pandas
 
-# O dataset de varejo usado contéminformações de vendas de uma loja virtual que atua em todo o país. Ela possui diferentes departamentos e atua em diferentes canais de venda, como marketplace e loja pópria.
+# O dataset de varejo usado contém informações de vendas de uma loja virtual que atua em todo o país. Ela possui diferentes departamentos e atua em diferentes canais de venda, como marketplace e loja pópria.
 
 Premissas de negócio:
 Analisando os dados, teve-se em mente que devido a um erro do sistema, algumas compras não continham a informação de UF (Unidade Federativa). Para solucionar isso, designou-se as compras sem estado ao estado de Mato Grosso do Sul (MS). Além disso, o preço final do produto não poderia exceder o preço do produto com frete.
